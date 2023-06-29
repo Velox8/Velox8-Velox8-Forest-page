@@ -13,7 +13,6 @@
 		position: relative;
 		display: flex;
 		flex-direction: column;
-		
 
 		height: 90em;
 		width: 100%;
@@ -47,7 +46,6 @@
 			margin-bottom: 1.5em;
 			text-align: center;
 
-		
 			z-index: 1;
 			.contact-box {
 				margin-top: 6em;
@@ -62,12 +60,11 @@
 					text-transform: uppercase;
 				}
 				.contact-info {
-			
 					margin: 1em;
 					font-size: 1.1rem;
 					font-weight: 200;
 				}
-				
+
 				.fa-solid {
 					font-size: 1.5rem;
 					color: c.$white;
@@ -90,8 +87,6 @@
 			width: 100%;
 			max-width: 300px;
 
-			
-			
 			color: c.$black;
 			font-size: 1rem;
 			font-weight: bold;
@@ -156,7 +151,6 @@
 			.fa-solid {
 				font-size: 2rem;
 			}
-			
 		}
 
 		.about-us2-box:hover {
@@ -171,8 +165,6 @@
 		display: flex;
 
 		flex-direction: column;
-
-		
 
 		transition: transform 0.3s;
 
@@ -334,7 +326,7 @@
 			display: flex;
 			flex-direction: column;
 			align-items: center;
-		background-image: url(/dist/img/selfie-4649915_1920.jpg);
+			background-image: url(/src/img/selfie-4649915_1920.jpg);
 		}
 
 		.h2Contact {
@@ -370,4 +362,3 @@
 		}
 	}
 }
-
