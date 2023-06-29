@@ -931,7 +931,7 @@ body {
 }
 @media (min-width: 992px) {
   .header {
-    background-image: url(../img/jungle-1807476_1920.jpg);
+    background-image: url(/src/img/jungle-1807476_1920.jpg);
   }
   .header .header-text {
     margin-left: 20em;
@@ -946,7 +946,7 @@ body {
     justify-content: center;
   }
   .about-us .about-us-adventure {
-    background-image: url(../img/girl-5785590_1920.jpg);
+    background-image: url(/src/img/girl-5785590_1920.jpg);
   }
   .about-us .about-us-adventure .adventureText {
     width: 60%;
